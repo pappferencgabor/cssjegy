@@ -14,7 +14,9 @@ a {
     margin: auto;
     background-color: white;
 }
-.masodikcella {
-    height: 40pt;
-    background: black;
+#masodikcella {
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
