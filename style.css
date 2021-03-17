@@ -7,4 +7,14 @@ a {
 #alap {
     background-color: #509050;
     margin: auto;
+    width: 980px;
+}
+#masodik {
+    width: 940px;
+    margin: auto;
+    background-color: white;
+}
+.masodikcella {
+    height: 40pt;
+    background: black;
 }
