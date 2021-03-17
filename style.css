@@ -10,6 +10,7 @@ a {
     width: 980px;
 }
 #masodik {
+    display: block;
     width: 940px;
     margin: auto;
     background-color: white;
@@ -19,4 +20,10 @@ a {
     background-color: black;
     color: white;
     text-align: center;
+}
+#gyomlalas {
+    float: right;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    border: 1pt solid red;
 }
